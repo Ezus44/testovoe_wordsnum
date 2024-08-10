@@ -1,0 +1,11 @@
+Apple banana Orange Apple BANANA Orange Kiwi KIWI grapefruit GRAPEFRUIT
+Mango Mango Pineapple pineapple Watermelon watermelon blueberry BLUEBERRY
+Strawberry Strawberry raspberry Raspberry blackberry BLACKBERRY coconut COCONUT
+Papaya papaya Guava guava lemon LEMON LEMON lime LIME Cherry cherry peach PEACH PEACH PEACH
+Plum plum Apricot Apricot Apricot nectarine nectarine nectarine nectarine Fig fig Date Date Date Date
+Olive olive Grape grape MELON melon Cranberry Cranberry Cranberry boysenberry Boysenberry
+Dragonfruit dragonfruit Pomegranate Pomegranate Pomegranate Persimmon persimmon mulberry Mulberry
+Lychee lychee Gooseberry Gooseberry Gooseberry JACKFRUIT jackfruit TAMARIND tamarind tamarind tamarind tamarind
+TANGERINE tangerine LITCHI litchi litchi litchi passionfruit PASSIONFRUIT PASSIONFRUIT PASSIONFRUIT PASSIONFRUIT
+YUZU yuzu yuzu yuzu Pomelo Pomelo Pomelo
+
